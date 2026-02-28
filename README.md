@@ -48,7 +48,6 @@ Ou vá no menu superior: Terminal > Novo Terminal.
 4. Instalar o Node.js (Caso não tenha)
 O comando node só funciona se o Node estiver instalado. Para verificar, digite no terminal:
 
-Bash
 node -v
 Se aparecer uma versão (ex: v20.x.x): Você já tem o Node! Pule para o próximo passo.
 
